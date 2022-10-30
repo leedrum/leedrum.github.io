@@ -15,8 +15,8 @@ layout: faceit-exts
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/faceit-exts/) <img valign="middle" src="https://img.shields.io/amo/v/faceit-exts?label=%20"> <img valign="middle" src="https://img.shields.io/amo/users/faceit-exts"> <img valign="middle" src="https://img.shields.io/amo/rating/faceit-exts">
 
-Faceit Exts inspried from Faceit Enhancer. [@timche\_](https://github.com/timche) haven't maintained it for a long time. So have many bugs, and features that need to fix/add.
-I tried to fix it temporarily but so hard to push the extension files to everyone so I tried to code a new extension and publish it to the chrome store and Firefox Addon to make you guys be able to update the extension directly.
+Faceit Exts inspried from Faceit Enhancer. [@timche\_](https://github.com/timche) has't maintained it for a long time. So have many bugs, and features that need to fix/add.
+I tried to fix it temporarily but so hard to push the extension files to everyone then I code a new extension and publish it to the Chrome store and Firefox Addon to make you guys able to update the extension directly.
 
 ## Features
 
@@ -84,4 +84,4 @@ Choose folder unziped | Choose `faceit-exts-firefox.zip`
 ---
 
 Author | Website
-[@leedrum](https://github.com/leedrum) | [faceit-exts](https://leedrum.github.io/faceit-exts/2022/10/21/introduction-faceit-exts.html)
+[@leedrum](https://github.com/leedrum) | [faceit-exts](https://leedrum.github.io/faceit-exts-extension/)
