@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Faceit-exts introduction
+title: Flash sale shoppe
 permalink: /flash-sale/
 layout: flash-sale
 ---
